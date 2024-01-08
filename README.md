@@ -8,4 +8,4 @@ Html ve Scss Kullanılmıştır
 
 <h1> Ekran Görüntüsü</h1>
 
-![] (jblgif.gif)
+![](jblgif.gif)
